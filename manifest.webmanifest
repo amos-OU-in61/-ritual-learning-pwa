@@ -1,8 +1,8 @@
 {
-  "name": "禮節背誦學習",
-  "short_name": "禮節",
-  "description": "禮節背誦與真人錄音學習程式",
-  "lang": "zh-Hant",
+  "name": "Ritual Learning",
+  "short_name": "Ritual Learning",
+  "description": "Ritual memorization and recorded-audio learning app",
+  "lang": "en",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
